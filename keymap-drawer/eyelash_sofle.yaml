@@ -245,7 +245,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - HOME
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - '&KP END'
+  - END
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
